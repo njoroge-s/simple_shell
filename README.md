@@ -1,1 +1,1 @@
-The readme file
+The readme file for our team project
