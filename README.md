@@ -1,1 +1,1 @@
-Our simple c shell project
+Our simple c shell team project
