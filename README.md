@@ -1,1 +1,1 @@
-Our simple c shell team project
+Our simple c shell team project between Serah and  Robert
