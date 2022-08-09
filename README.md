@@ -1,1 +1,1 @@
-This is our shell project 
+Our simple c shell 
