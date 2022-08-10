@@ -1,1 +1,2 @@
-Our simple c shell project
+This is the  simple c shell team project.
+This team consists of Serah Njoroge and Masereka Robert
